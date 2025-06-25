@@ -18,3 +18,7 @@ Uniquement disponible en Français.
 ## Installation
 
 - Installer la dernière version de Python
+- Dans le terminal utiliser successivement les commandes :
+  python.exe -m pip install --upgrade pip
+  pip install pandas
+  
